@@ -13,3 +13,10 @@ Steven Work Done
         - Added the terrain to the scene
     - Added the Droid Assault scene
         - Added the terrain to the scene
+
+Tim Work Done
+	-Working on Terrain building
+		-Spawn Locations
+		-Number of Spawns
+		-Objective of the Terrain
+	-Added Character
