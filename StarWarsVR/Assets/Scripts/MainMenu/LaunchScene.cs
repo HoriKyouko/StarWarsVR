@@ -5,18 +5,18 @@ using UnityEngine;
 
 public class LaunchScene : MonoBehaviour
 {
-	private SteamVR_TrackedContoller controller;
+	//private SteamVR_TrackedContoller controller;
 
     // Start is called before the first frame update
     void Start()
     {
-        controller = gameObject.getComponent<SteamVR_TrackedController>();
+        //controller = gameObject.getComponent<SteamVR_TrackedController>();
     }	
 
     // Update is called once per frame
     void Update()
     {
-    		if (controller.triggerPressed)
+    		/*if (controller.triggerPressed)
 		{
 			RayCast	hit;
 			
@@ -27,6 +27,6 @@ public class LaunchScene : MonoBehaviour
                     hit.collider.gameObject.GetComponent<MenuStartButton>().LoadGameScene();
                 }
             }
-		}   
+		}   */
     }
 }
