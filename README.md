@@ -19,6 +19,10 @@ Steven Work Done
 	- Created a laser prefab with a sphere and particle effect
 	- Added in the lightsabers to replace the controllers
 	- Caused an issue where this was all added to the wrong scene and need to swap the objects over
+	- Took a while to get the training droid to move around the player in a hemisphere
+		- Still need to fix an issue with the training droid where the laser blasts are from other areas than the 
+		current location of the training droid. I think this has to do with the delay inherit in initialization.
+	
     - Added the Droid Assault scene
         - Added the terrain to the scene
 
