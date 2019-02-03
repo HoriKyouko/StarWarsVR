@@ -11,18 +11,18 @@ Steven Work Done
 		- Added in exit button
 		- Found and added theme music
     
-    	- Found asset for battle droid
+	- Found asset for battle droid
         	- Made changes for battle droid to fix the texturing
         	- This was a free asset created by SmeagolGollum
     
-    	- Found asset for light saber
+	- Found asset for light saber
         	- This was a free asset created by Oleksandr Zymohliad
         	- Made changes for the light saber to fix texturing
 
 	-Found asset for Training Droid
 		-This was a free asset created by Tyrosmith
     
-    	- Added the Training scene
+	- Added the Training scene
         	- Added the terrain to the scene
 		- Created a placeholder for the training droid and wrote the laser firing script
 		- Created a laser prefab with a sphere and particle effect
@@ -33,7 +33,7 @@ Steven Work Done
 			current location of the training droid. I think this has to do with the delay inherit in initialization.
 		- Added in sound effect for when the laser fires
 	
-    	- Added the Droid Assault scene
+	- Added the Droid Assault scene
         	- Added the terrain to the scene
 		- Added in sound effect for when the laser fires
 
