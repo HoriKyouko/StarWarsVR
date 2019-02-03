@@ -32,6 +32,8 @@ Steven Work Done
 			- Still need to fix an issue with the training droid where the laser blasts are from other areas than the 
 			current location of the training droid. I think this has to do with the delay inherit in initialization.
 		- Added in sound effect for when the laser fires
+		- Added in code to cause reflection of laser blasts using the lightsaber
+		- Attempted to make the lightsaber feel more natural, but still haven't managed it
 	
 	- Added the Droid Assault scene
         	- Added the terrain to the scene
