@@ -34,10 +34,12 @@ Steven Work Done
 		- Added in sound effect for when the laser fires
 		- Added in code to cause reflection of laser blasts using the lightsaber
 		- Attempted to make the lightsaber feel more natural, but still haven't managed it
+		- Added ability to return to the main menu
 	
 	- Added the Droid Assault scene
         	- Added the terrain to the scene
 		- Added in sound effect for when the laser fires
+		- Added ability to return to the main menu
 
 Tim Work Done
 	-Working on Terrain building
